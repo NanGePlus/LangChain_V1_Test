@@ -44,6 +44,6 @@ https://youtu.be/W1js-VzhyiU
 https://www.bilibili.com/video/BV17c6mBbEHv/
 
 2. 【EP01_快速入门用例】2026必学！LangChain最新V1.x版本全家桶LangChain+LangGraph+DeepAgents开发经验免费分享
-https://youtu.be/0ixyKPE2kHQ
+https://youtu.be/0ixyKPE2kHQ   
 https://www.bilibili.com/video/BV1EZ62BhEbR/     
 
