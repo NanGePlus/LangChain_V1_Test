@@ -53,3 +53,7 @@ https://youtu.be/xKnmdq-s2gc
 https://www.bilibili.com/video/BV1th69BAEdA/          
 对应文件夹:02_XXX   
 
+4. 【EP03_Agent 3 种调用方式】2026必学！LangChain最新V1.x全家桶LangChain+LangGraph+DeepAgents开发分享
+https://youtu.be/qYQY3WJ2KSU
+https://www.bilibili.com/video/BV1sjrBBnEy2/
+对应文件夹:03_XXX   
