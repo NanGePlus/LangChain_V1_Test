@@ -45,7 +45,7 @@ https://www.bilibili.com/video/BV17c6mBbEHv/
 
 2. 【EP01_快速入门用例】2026必学！LangChain最新V1.x版本全家桶LangChain+LangGraph+DeepAgents开发经验免费分享
 https://youtu.be/0ixyKPE2kHQ   
-https://www.bilibili.com/video/BV1EZ62BhEbR/
+https://www.bilibili.com/video/BV1EZ62BhEbR/   
 对应文件夹:01_XXX
 
 3. 【EP02_Prompt模版使用】2026必学！LangChain最新V1.x全家桶LangChain+LangGraph+DeepAgents开发经验免费分享          
