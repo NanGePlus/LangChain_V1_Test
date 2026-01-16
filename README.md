@@ -57,3 +57,8 @@ https://www.bilibili.com/video/BV1th69BAEdA/
 https://youtu.be/qYQY3WJ2KSU    
 https://www.bilibili.com/video/BV1sjrBBnEy2/    
 对应文件夹:03_XXX     
+
+5. 【EP04_短期记忆持久化存储和记忆管理策略】2026必学！LangChain最新V1.x全家桶LangChain+LangGraph+DeepAgents分享       
+https://youtu.be/rEhoJaNStzI      
+https://www.bilibili.com/video/BV1sjrBBnEy2/      
+对应文件夹:04_XXX      
