@@ -66,4 +66,8 @@ https://www.bilibili.com/video/BV1i1kNBLEY3/
 6. 【EP05_长期记忆持久化存储和读取写入记忆】2026必学！LangChain最新V1.x全家桶LangChain+LangGraph+DeepAgents分享              
 https://youtu.be/rSe4GvIVNSA               
 https://www.bilibili.com/video/BV1DsrUBREsL/                         
-对应文件夹:05_XXX     
+对应文件夹:05_XXX
+
+7. 【EP06_人工介入审查 HITL】2026必学！LangChain最新V1.x全家桶LangChain+LangGraph+DeepAgents分享    
+https://youtu.be/hO2vNz_0mSs    
+对应文件夹:06_XXX     
