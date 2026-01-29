@@ -9,9 +9,9 @@
 
 - Langfuse本地服务部署  
 - LangChain 代码中集成 Langfuse
-- 可观测性功能测试
-- Prompt管理功能测试
-- 评估功能测试
+- Observability 观测功能测试
+- Prompt Management 提示词管理功能测试
+- Evaluation 评估功能测试
 
 ### Langfuse介绍
 
