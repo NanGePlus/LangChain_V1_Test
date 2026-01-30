@@ -87,10 +87,10 @@ https://www.bilibili.com/video/BV1g3zDBxEUx/
 （1）核心功能介绍和平台功能演示：           
 https://youtu.be/WBaTb58E8Q4            
 https://www.bilibili.com/video/BV1cv6iBqEFK/
-（2）详细拆解测试：
-https://youtu.be/Guvuf_xxdG0
-
-对应文件夹:09_XXX     
+（2）详细拆解测试：           
+https://youtu.be/Guvuf_xxdG0              
+https://www.bilibili.com/video/BV13a6vBSEVT/               
+对应文件夹:09_XXX      
 
 
 
