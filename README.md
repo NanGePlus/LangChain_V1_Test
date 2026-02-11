@@ -98,5 +98,7 @@ https://www.bilibili.com/video/BV1iLFazaEF4/
 对应文件夹:10_XXX       
 
 12. 【EP11_API接口服务】基于FastAPI框架打造带人工审核+状态持久化的ReAct Agent API后端接口服务，完整开源保姆级闭环攻略，详细拆解测试       
-https://youtu.be/kU5G8SdiwSA    
-对应文件夹:11_XXX       
+https://youtu.be/kU5G8SdiwSA   
+https://www.bilibili.com/video/BV1rSFozLEjF/    
+对应文件夹:11_XXX
+
