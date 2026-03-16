@@ -107,9 +107,9 @@ https://youtu.be/tjhOPa5msMU
 https://www.bilibili.com/video/BV1XqPdzuEQ3/                 
 对应文件夹:12_XXX
 
-14. 【EP13_打字机效果】后端直推前端：ReAct Agent API后端流式接口实现打字机效果完整闭环攻略和详细拆解测试。异步流式生成和SSE数据推流
-https://youtu.be/2Xf1LPR6mgY    
-https://www.bilibili.com/video/BV1dqwVzHESS/                             
+14. 【EP13_打字机效果】后端直推前端：ReAct Agent API后端流式接口实现打字机效果完整闭环攻略和详细拆解测试。异步流式生成和SSE数据推流     
+https://youtu.be/2Xf1LPR6mgY     
+https://www.bilibili.com/video/BV1dqwVzHESS/                
 对应文件夹:13_XXX         
 
 
