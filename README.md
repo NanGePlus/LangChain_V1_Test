@@ -139,6 +139,12 @@ Gitee地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 - B站频道对应视频: [https://www.bilibili.com/video/BV1Jk5t6EEA7/](https://www.bilibili.com/video/BV1Jk5t6EEA7/)    
 - 对应文件夹:15_XXX
 
+**（15）【EP16_多Agents（LangGraph方案）】ReAct Agent API 后端接口实战：多Agents智能体协作完整闭环保姆级攻略与测试拆解。**  
+
+- YouTube频道对应视频: [https://youtu.be/KhvaRtqU6b8](https://youtu.be/KhvaRtqU6b8)    
+- B站频道对应视频: [https://www.bilibili.com/video/BV1vBLj6LEmz/](https://www.bilibili.com/video/BV1vBLj6LEmz/)    
+- 对应文件夹:16_XXX
+
 ---
 
 ## LangChain生态简介
