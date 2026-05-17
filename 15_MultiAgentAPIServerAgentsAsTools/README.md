@@ -201,6 +201,7 @@ python mcp_start.py
 python rag_mcp_server_test.py
 
 # 3、Agent 测试
+python agent_api.py                               # 启动后端API接口服务
 python api_test.py                                # 非流式，Task Agent 场景（天气查询）
 python api_test.py --stream --debug               # 流式，Task Agent 场景（天气查询）
 python api_test.py --knowledge                    # 非流式，Knowledge Agent 场景（文档检索）
